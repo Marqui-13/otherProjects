@@ -269,7 +269,7 @@ header.sticky{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, auto));
     align-items: center;
-    gap: 0.5rem;
+    gap: 2.5rem;
     margin-top: 5rem;
     background-image: url(../images/gridbg.avif);;
 }
