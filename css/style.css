@@ -85,7 +85,7 @@ section{
     height: 130vh;
     width: 100%;
     background-size: cover;
-    background-image: url("../images/bp.jpg");
+    background-image: url("../images/bg.jpg");
     background-position: center;
     display: flex;
     align-items: center;
@@ -275,7 +275,7 @@ header.sticky{
     cursor: pointer;
 }
 .portfolio{
-    background-color: transparent;
+    background-color: none;
 }
 .portfolio-content{
     display: grid;
