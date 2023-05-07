@@ -62,7 +62,7 @@ logo{
     font-weight: 500;
     margin: 0 25px;
     transition: all .45s ease;
-}
+} 
 .navlist a:hover{
     color: var(--main-color);
 }
@@ -84,7 +84,6 @@ section{
     position: relative;
     height: 130vh;
     width: 100%;
-
     background-size: cover;
     background-position: center;
     display: flex;
