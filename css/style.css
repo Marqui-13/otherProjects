@@ -84,7 +84,7 @@ section{
     position: relative;
     height: 130vh;
     width: 100%;
-    background-image: url(../images/bg.jpg);
+
     background-size: cover;
     background-position: center;
     display: flex;
