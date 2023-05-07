@@ -24,6 +24,7 @@ body{
 canvas {
   display: block;
   vertical-align: bottom;
+  z-index: 101;
 }
 /* ---- tsparticles container ---- */
 #tsparticles {
