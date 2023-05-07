@@ -276,6 +276,7 @@ header.sticky{
 }
 .portfolio{
     background-color: none;
+    z-index: -100;
 }
 .portfolio-content{
     display: grid;
@@ -283,7 +284,6 @@ header.sticky{
     align-items: center;
     gap: 2.5rem;
     margin-top: 5rem;
-    z-index: 100;
     /*background-image: url(../images/gridbg.avif);*/
 }
 .row{
