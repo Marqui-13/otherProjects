@@ -1,0 +1,1 @@
+This repository contains various projects and applications I have built.
